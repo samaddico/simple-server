@@ -11,6 +11,7 @@
  `docker build -t simple-server:latest .`
 - Run the image  with :
   `docker run -p 8080:8080 simple-server:latest`
-- The application should be accessible on http://localhost:8080.  
+- The application should be accessible on http://localhost:8080. 
+- Testing 
 
 
